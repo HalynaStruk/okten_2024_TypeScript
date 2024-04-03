@@ -147,4 +147,4 @@ for (const shape of shapes) {
     console.log(shape.perymetr());
     console.log(shape.area());
 }
-rectangle.greeting()
+rectangle.greeting();
