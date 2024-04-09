@@ -1,0 +1,7 @@
+node_modules
+package-lock.json
+jan-2024.iml
+.idea
+**/*.js
+**/dist
+yarn.lock
