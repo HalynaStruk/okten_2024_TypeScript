@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82563f26-6b7f-494c-b8c5-99f95f598d84" name="Changes" comment="typescript">
-      <change afterPath="$PROJECT_DIR$/Lesson_1/index.js" afterDir="false" />
+    <list default="true" id="82563f26-6b7f-494c-b8c5-99f95f598d84" name="Changes" comment="typescript lecture">
       <change afterPath="$PROJECT_DIR$/node_modules/.bin/tsc" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.bin/tsserver" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
@@ -122,9 +121,9 @@
       <change afterPath="$PROJECT_DIR$/node_modules/typescript/lib/zh-cn/diagnosticMessages.generated.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/typescript/lib/zh-tw/diagnosticMessages.generated.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/typescript/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_1/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_1/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_1/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_1/index.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,6 +157,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Facets",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "ts.external.directory.path": "/Users/struk/okten 2024/TypeScript/okten_2024_TypeScript/node_modules/typescript/lib"
   }
 }]]></component>
@@ -169,7 +171,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712147681277</updated>
-      <workItem from="1712147683463" duration="7202000" />
+      <workItem from="1712147683463" duration="7714000" />
+      <workItem from="1712331203589" duration="189000" />
+      <workItem from="1712331426431" duration="2865000" />
     </task>
     <task id="LOCAL-00001" summary="typescript">
       <created>1712161576925</created>
@@ -185,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1712161612786</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="typescript">
+      <created>1712330711570</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712330711570</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

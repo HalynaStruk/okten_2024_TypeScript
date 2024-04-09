@@ -148,3 +148,27 @@ for (const shape of shapes) {
     console.log(shape.area());
 }
 rectangle.greeting();
+
+interface IUser<T> {
+    name: string,
+    age: number,
+    status: boolean,
+    home?: number,
+    data: T
+}
+ const user: IUser<string[]> = {name: 'Max', age:23, status:true,data:['asd', 'qwe']}
+const user2: Partial<IUser<number[]>> = {status:false, data: [1,2,3]}
+
+class User {
+    constructor(private _name: string, public age: number, protected status: boolean) {
+    }
+    getName(): string {
+        return this._name
+    }
+    setName(name:string):void{
+        this._name = name
+    }
+}
+const uzer = new User('Max', 25, false);
+console.log(uzer.getName());
+
