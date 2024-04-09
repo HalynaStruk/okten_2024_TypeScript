@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82563f26-6b7f-494c-b8c5-99f95f598d84" name="Changes" comment="typescript lecture">
-      <change afterPath="$PROJECT_DIR$/Lesson_2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_2/index.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.bin/tsc" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.bin/tsserver" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
@@ -124,6 +122,8 @@
       <change afterPath="$PROJECT_DIR$/node_modules/typescript/lib/zh-tw/diagnosticMessages.generated.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/typescript/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_2/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_2/index.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,7 +175,7 @@
       <updated>1712147681277</updated>
       <workItem from="1712147683463" duration="7714000" />
       <workItem from="1712331203589" duration="189000" />
-      <workItem from="1712331426431" duration="4169000" />
+      <workItem from="1712331426431" duration="8728000" />
     </task>
     <task id="LOCAL-00001" summary="typescript">
       <created>1712161576925</created>
@@ -205,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1712662497770</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="typescript lecture">
+      <created>1712664031250</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712664031250</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
